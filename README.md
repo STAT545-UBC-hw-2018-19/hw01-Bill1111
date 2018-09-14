@@ -13,7 +13,7 @@ How did I feel about learning R and GitHub when I signed up for this class? Some
 ![exciting](https://raw.githubusercontent.com/haozhu233/giphyr/master/img/exciting_rDbelKPujYEBq.gif)
 
 How do I feel when I can't easily move a file into a folder on my repository? This:
-![mad](https://media2.giphy.com/media/11tTNkNy1SdXGg/200_d.gif)
+<center>![mad](https://media2.giphy.com/media/11tTNkNy1SdXGg/200_d.gif)</center>
 
 ## Repository Description
 
