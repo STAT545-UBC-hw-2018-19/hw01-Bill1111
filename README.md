@@ -22,7 +22,13 @@ How do I feel when I can't easily move a file into a folder on my repository? Th
 My classmates have been helping me out a lot online and in class when I have questions. I really appreciate it :smile:
 
 ## Repository Description
+This repository is one of the first ones I have created. The goal is to fulfill all the requirements for [STAT 545 Assignment 1](https://github.com/STAT545-UBC/Classroom/blob/master/assignments/hw01/hw01.md).
 
+The ~~repotisory~~ repository contains:
+1. This README.md File
+2. A gapminder dataset exploration in with R Markdown, saved in both:
+      1. .RMd and
+      2. .md files
 
 ## Reflections
 
@@ -39,6 +45,7 @@ https://canvas.ubc.ca/courses/5778/assignments/209827
 https://raw.githubusercontent.com/STAT545-UBC/Classroom/master/assignments/hw01/sample_readme.md
 https://gist.github.com/ProjectCleverWeb/4052a53abd8c6f8c6aea
 https://github.com/haozhu233/giphyr/blob/master/README.md
+https://gist.github.com/roachhd/1f029bd4b50b8a524f3c
 
 To do:
 - write introduction for myself
