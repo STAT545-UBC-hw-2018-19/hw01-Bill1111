@@ -10,29 +10,15 @@ In this README file, I have included the following:
 My name is William Hall, and I am a PhD student in Health Economics in the faculty of Medicine at UBC. Don't know what Health Economics is? Nobody does. Here is a quick describing (what we do)(https://en.wikipedia.org/wiki/Health_economics).
 
 How did I feel about learning R and GitHub when I signed up for this class? Something like this:
-![exciting](https://raw.githubusercontent.com/haozhu233/giphyr/master/img/exciting_rDbelKPujYEBq.gif)
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/haozhu233/giphyr/master/img/exciting_rDbelKPujYEBq.gif">
 </p>
 
 How do I feel when I can't easily move a file into a folder on my repository? This:
-![mad](https://media2.giphy.com/media/11tTNkNy1SdXGg/200_d.gif)
-
-
 <p align="center">
   <img src="https://media2.giphy.com/media/11tTNkNy1SdXGg/200_d.gif">
 </p>
 
-<p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
-</p>
 
 
 ## Repository Description
