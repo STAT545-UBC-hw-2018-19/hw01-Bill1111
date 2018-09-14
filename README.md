@@ -7,7 +7,7 @@ In this README file, I have included the following:
 3. My Reflections on the Assignment
 
 ## Introduction
-My name is William Hall, and I am a PhD student in Health Economics in the faculty of Medicine at UBC. Don't know what Health Economics is? Nobody does. Here is [what we do](https://en.wikipedia.org/wiki/Health_economics) in a nutshell. I also work at the Centre for Clinical Epidemiology and Evaluation which is a research centre at Vancouver Coastal Health Research Institute. You can check out my bio here - (https://www.c2e2.ca/william-hall).
+My name is William Hall, and I am a PhD student in Health Economics in the faculty of Medicine at UBC. Don't know what Health Economics is? Nobody does. Here is [what we do](https://en.wikipedia.org/wiki/Health_economics) in a nutshell. I also work at the Centre for Clinical Epidemiology and Evaluation which is a research centre at Vancouver Coastal Health Research Institute. You can check out my bio here - https://www.c2e2.ca/william-hall.
 
 How did I feel about learning R and GitHub when I signed up for this class? Something like this:
 <p align="center">
@@ -46,6 +46,8 @@ https://raw.githubusercontent.com/STAT545-UBC/Classroom/master/assignments/hw01/
 https://gist.github.com/ProjectCleverWeb/4052a53abd8c6f8c6aea
 https://github.com/haozhu233/giphyr/blob/master/README.md
 https://gist.github.com/roachhd/1f029bd4b50b8a524f3c
+
+https://rmarkdown.rstudio.com/lesson-1.html
 
 To do:
 - write introduction for myself
