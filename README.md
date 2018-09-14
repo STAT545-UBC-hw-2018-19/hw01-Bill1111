@@ -19,7 +19,7 @@ How do I feel when I can't easily move a file into a folder on my repository? Th
   <img src="https://media2.giphy.com/media/11tTNkNy1SdXGg/200_d.gif">
 </p>
 
-
+My classmates have been helping me out a lot online and in class when I have questions. I really appreciate it :smile:
 
 ## Repository Description
 
