@@ -17,6 +17,10 @@ How do I feel when I can't easily move a file into a folder on my repository? Th
 
 
 <p align="center">
+  <img src="http://s.4cdn.org/image/title/105.gif">
+</p>
+
+<p align="center">
   <b>Some Links:</b><br>
   <a href="#">Link 1</a> |
   <a href="#">Link 2</a> |
@@ -42,6 +46,8 @@ Some resources that could help me with this editing
 https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 https://canvas.ubc.ca/courses/5778/assignments/209827
 https://raw.githubusercontent.com/STAT545-UBC/Classroom/master/assignments/hw01/sample_readme.md
+https://gist.github.com/ProjectCleverWeb/4052a53abd8c6f8c6aea
+https://github.com/haozhu233/giphyr/blob/master/README.md
 
 To do:
 - write introduction for myself
