@@ -28,7 +28,7 @@ The ~~repotisory~~ repository contains:
 1. This README.md File
 2. A gapminder dataset exploration in with R Markdown, saved in both:
       1. .RMd and
-      2. .md files
+      2. .md files - https://github.com/STAT545-UBC-students/hw01-Bill1111/blob/master/STAT545_hm01_gapminder.md
 
 ## Reflections
 
