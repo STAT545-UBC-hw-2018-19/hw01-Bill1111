@@ -32,25 +32,16 @@ The ~~repotisory~~ repository contains:
 
 ## Reflections
 
+The learning curve was pretty sharp in the first few weeks here being a first timer to the GIT, and being a novice at R - but I managed to get through this first assignment. As I posted in the internal chat, I think some screen recordings of how to do different actions in Git Hub would be very helpful to us noobs.
 
+For the README.md, I just edited in github.com. I'm still a little lost with all the cloning, branching, and pushing. I created the R markdown file in R on my computer, then just saved it on my desktop, then uploaded the files into my homework repository.
 
-and 
-For this homework assignment I have to create a readme file with an introduction and explanation of the repository with the assignment itself.
+I think that the most fun I had was adding the gifs to this README.md file, and doing cool stuff in R with R Markdown. There are a lot of resources for R online which is really nice. I've included some of the resources I found helpful below:
 
-
-
-Some resources that could help me with this editing
-https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
-https://canvas.ubc.ca/courses/5778/assignments/209827
-https://raw.githubusercontent.com/STAT545-UBC/Classroom/master/assignments/hw01/sample_readme.md
-https://gist.github.com/ProjectCleverWeb/4052a53abd8c6f8c6aea
-https://github.com/haozhu233/giphyr/blob/master/README.md
-https://gist.github.com/roachhd/1f029bd4b50b8a524f3c
-
-https://rmarkdown.rstudio.com/lesson-1.html
-
-To do:
-- write introduction for myself
-- write up description of the repository
-
-This reposi
+- https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+- https://canvas.ubc.ca/courses/5778/assignments/209827
+- https://raw.githubusercontent.com/STAT545-UBC/Classroom/master/assignments/hw01/sample_readme.md
+- https://gist.github.com/ProjectCleverWeb/4052a53abd8c6f8c6aea
+- https://github.com/haozhu233/giphyr/blob/master/README.md
+- https://gist.github.com/roachhd/1f029bd4b50b8a524f3c
+- https://rmarkdown.rstudio.com/lesson-1.html
